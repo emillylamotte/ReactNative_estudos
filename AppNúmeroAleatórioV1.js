@@ -1,4 +1,4 @@
-//Primeira versão de um script para criar um app que gera um número aleatório, utilizando React Native
+//Primeira versão de um script para criar um app (Android) que gera um número aleatório, utilizando React Native
 //Emilly Lamotte
 
 import React, {useState} from "react";
