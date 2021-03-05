@@ -58,7 +58,7 @@ const App = () => {
       borderRadius: 5,
       justifyContent: "center",
       alignItems: "center", 
-      marginTop: 15,   //espaço acima
+      marginTop: 15,  
     },
 });
 export default App
