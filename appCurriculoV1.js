@@ -1,3 +1,5 @@
+//Algoritmo desenvolvido com React Native de um app com informações de um currículo, apresentando redes sociais, foto e cards p/ inserção de informações pessoais
+//Emilly Lamotte
 import React from "react";
 import {StyleSheet, View, Text, Image, Alert, TouchableOpacity} from "react-native";
 import foto from './assets/foto.jpg';
@@ -60,13 +62,13 @@ const App = () => {
 
 const style = StyleSheet.create({
   page:{
-    backgroundColor: "#E7E7E7",//cinza
-    flex:1, //prioridade 1
+    backgroundColor: "#E7E7E7",
+    flex:1,
   },
   foto:{
     width: 250,
     height: 250,
-    borderRadius: 125,//deixando as bordas arredondadas
+    borderRadius: 125,
   },
   containerCabecalho:{
     alignItems: 'center',
@@ -76,15 +78,15 @@ const style = StyleSheet.create({
   nome:{
     fontSize:32,
     fontWeight:"bold",
-    marginTop:10, //espaçamento em cima
+    marginTop:10, 
   },
   funcao:{
    color: "#000000",
-   marginBottom:10, //espaçamento embaixo
+   marginBottom:10, 
   },
   redessociais:{
-    flexDirection: "row",//icones em linha
-    justifyContent: "space-between", //espaço entre os icones
+    flexDirection: "row",
+    justifyContent: "space-between", 
     alignContent: "center",
     width: '50%',
     marginTop: 20,
