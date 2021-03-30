@@ -6,5 +6,10 @@ Este repositório contém os exercícios/códigos desenvolvidos durante o curso 
 **Projeto 1 - Aplicativo Número Aleatório**
 - O aplicativo gera um número aleatório entre 1 e 100 quando o usuário aperrta um botão.
 
+
+
 **Projeto 2 - Aplicativo Currículo Básico**
 - O aplicativo mostra as pricipais informações de um currículo básico, tais como foto, experiências anteriores e formação acadêmica.
+![](https://drive.google.com/file/d/1ZEwRBO9-Nf7z_YA9d3pjn2CKVeacFfuP/view?usp=sharing)
+
+> Interface da aplicação
