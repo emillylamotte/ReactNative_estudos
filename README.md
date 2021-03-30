@@ -10,6 +10,8 @@ Este repositório contém os exercícios/códigos desenvolvidos durante o curso 
 
 **Projeto 2 - Aplicativo Currículo Básico**
 - O aplicativo mostra as pricipais informações de um currículo básico, tais como foto, experiências anteriores e formação acadêmica.
-![](https://drive.google.com/file/d/1ZEwRBO9-Nf7z_YA9d3pjn2CKVeacFfuP/view?usp=sharing)
+
+<img src="https://user-images.githubusercontent.com/79487290/112922076-3c15c380-90e2-11eb-8082-a63aedb18248.jpeg" alt="Interface da aplicação" width="300"/>
+
 
 > Interface da aplicação
