@@ -7,7 +7,8 @@ Este repositório contém os exercícios/códigos desenvolvidos durante o curso 
 - O aplicativo gera um número aleatório entre 1 e 100 quando o usuário aperrta um botão.
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/79487290/112922680-45536000-90e3-11eb-91a0-9e77be027c52.jpg" width="300"/>
-  > Interface da aplicação
+ <br>
+ Interface da aplicação
   </p>
 
 
@@ -15,6 +16,7 @@ Este repositório contém os exercícios/códigos desenvolvidos durante o curso 
 - O aplicativo mostra as pricipais informações de um currículo básico, tais como foto, experiências anteriores e formação acadêmica.
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/79487290/112922076-3c15c380-90e2-11eb-8082-a63aedb18248.jpeg" alt="Interface da aplicação" width="300"/>
-  > Interface da aplicação
+  <br>
+ Interface da aplicação
   </p>
 
