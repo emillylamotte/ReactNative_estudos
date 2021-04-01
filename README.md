@@ -1,5 +1,5 @@
 ## Estudos em React Native - Digital Innovation One
-Este repositório contém os exercícios/códigos desenvolvidos utilizando conceitos básicos de React Native, JavaScript, CSS e HTML durante o curso "Criando aplicações móveis multiplataforma com React Native", realizado na plataforma Digital Innovation One
+Este repositório contém os exercícios/códigos desenvolvidos utilizando conceitos básicos de React Native, JavaScript e CSS durante o curso "Criando aplicações móveis multiplataforma com React Native", realizado na plataforma Digital Innovation One
 
 ### Projetos
 
